@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="priority_levels">
+        <item>Низкий приоритет</item>
+        <item>Нормальный приоритет</item>
+        <item>Высокий приоритет</item>
+    </string-array>
+
+    <string name="app_name">На заметку</string>
+    <string name="current_task">Текущие</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_editing_title">Изменить задачу</string>
+    <string name="dialog_error_empty_title">Пожалуйста, заполните это поле</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="dialog_removing_message">Удалить задачу?</string>
+    <string name="dialog_title">Добавление задачи</string>
+    <string name="do_not_show_splash">Не показывать заставку</string>
+    <string name="done_task">Выполненные</string>
+    <string name="removed">Удалено</string>
+    <string name="separator_future">Будущие</string>
+    <string name="separator_overdue">Прошедшие</string>
+    <string name="separator_today">Сегодня</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+    <string name="task_title">Заголовок</string>
+    <string name="hello_blank_fragment">Приветствие</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1166571965307351/8142427229</string>
+</resources>
