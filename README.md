@@ -16,7 +16,7 @@ On a note - действительно интуитивный и надежны�
 * и многое другое
 
 ***
-[Скачать APK](https://1drv.ms/u/s!AhP8_DegfLeQmG8iES_-RSrH6wyt)
+[Скачать APK](https://github.com/VitaliBov/On-a-note/raw/master/app/app-release.apk)
 ***
 |![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14560120.jpg)|![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14542270.jpg)|![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14544228.jpg)|
 | ------------- |:------------------:| -----:|
